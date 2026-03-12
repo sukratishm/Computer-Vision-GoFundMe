@@ -1,4 +1,4 @@
-# gofundme-animal-campaign-insights
+# gofundme-animal-Computer‑Vision‑Text‑Analytics
 
 Analysis of GoFundMe Animal-category campaigns to understand how image content, text narratives, and campaign duration relate to fundraising success.
 
